@@ -1,0 +1,1 @@
+sqlite3 car_service.db < db_init.sql
