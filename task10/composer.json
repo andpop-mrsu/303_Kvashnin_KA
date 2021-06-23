@@ -1,0 +1,12 @@
+{
+    "name": "db/task10",
+    "authors": [
+        {
+            "name": "kaddarilni",
+            "email": "danila13rus@yandex.ru"
+        }
+    ],
+    "require": {
+        "gabordemooij/redbean": "^5.7"
+    }
+}
